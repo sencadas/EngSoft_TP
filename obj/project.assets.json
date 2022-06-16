@@ -7524,19 +7524,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sencadas\\.nuget\\packages\\": {}
+    "C:\\Users\\Ruben Morim\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Escola\\ENGSOF\\.netProjects\\TP-ES2\\TP-ES2\\TP-ES2.csproj",
+      "projectUniqueName": "C:\\Users\\Ruben Morim\\Desktop\\3 ano\\2semestre\\Software 2\\Práticas\\exercicios\\EngSoft_TP\\TP-ES2.csproj",
       "projectName": "TP-ES2",
-      "projectPath": "D:\\Escola\\ENGSOF\\.netProjects\\TP-ES2\\TP-ES2\\TP-ES2.csproj",
-      "packagesPath": "C:\\Users\\Sencadas\\.nuget\\packages\\",
-      "outputPath": "D:\\Escola\\ENGSOF\\.netProjects\\TP-ES2\\TP-ES2\\obj\\",
+      "projectPath": "C:\\Users\\Ruben Morim\\Desktop\\3 ano\\2semestre\\Software 2\\Práticas\\exercicios\\EngSoft_TP\\TP-ES2.csproj",
+      "packagesPath": "C:\\Users\\Ruben Morim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ruben Morim\\Desktop\\3 ano\\2semestre\\Software 2\\Práticas\\exercicios\\EngSoft_TP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sencadas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ruben Morim\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
