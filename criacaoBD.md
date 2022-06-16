@@ -1,3 +1,6 @@
+--Criação do container da base de dados em consola
+docker run --name es2-db -p 5432:5432 -e POSTGRES_PASSWORD=es2 -e POSTGRES_USER=es2 -e
+
 -- Tipos de utilizador
 create table tiposUtilizador
 (
